@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! I'm David Yang, currently studying CS BSE/MSE at UPenn Engineering. 
+
+- 🔭 I’m currently working on getting my feet planted firmly into the ground when it comes to programming and learning how to write good code!
+- 🌱 I’m currently learning Python libraries and just the language itself! -- To do this I'm doing Advent of Code!
+- 💬 Ask me about anything that interests you generally || about me!
+- 📫 How to reach me: School Email -- dyang438@seas.upenn.edu, Instagram: @davidyang.438
+- 😄 Pronouns: He/Him/His
 
 <!--
 **dyang438/dyang438** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
