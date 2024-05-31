@@ -3,8 +3,8 @@
 🌱 I’m currently learning about systems programming and am doing work at the Systems Architecture Integration Lab at UPenn as well as an internship at Nobias Therapeutics.\
 💬 Ask me about anything that interests you, either generally || about me!\
 📫 Reach me @ {\
-  \tSchool Email -- dyang438@seas.upenn.edu,\
-  \tInstagram: @davidyang.438,\
+  &nbsp;&nbsp;&nbsp;&nbsp;School Email -- dyang438@seas.upenn.edu,\
+  &nbsp;&nbsp;&nbsp;&nbsp;Instagram: @davidyang.438,\
 }
 
 My Pronouns are He/Him/His.
