@@ -1,12 +1,13 @@
 ### Hi there! I'm David Yang, currently 3rd Year CIS BSE+MSE @ UPenn Engineering. 
 
-- 🌱 I’m currently learning about systems engineering and am doing work at the Systems Architecture Integration Lab at UPenn as well as an Engineering Internship at Nobias Therapeutics.
-- 💬 Ask me about anything that interests you, either generally || about me!
-- 📫 Reach me @ {
--   School Email -- dyang438@seas.upenn.edu,
--   Instagram: @davidyang.438,
-- }
-- Pronouns: He/Him/His
+🌱 I’m currently learning about systems programming and am doing work at the Systems Architecture Integration Lab at UPenn as well as an internship at Nobias Therapeutics.
+💬 Ask me about anything that interests you, either generally || about me!
+📫 Reach me @ {
+  School Email -- dyang438@seas.upenn.edu,
+  Instagram: @davidyang.438,
+}
+
+My Pronouns are He/Him/His.
 
 <!--
 **dyang438/dyang438** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
