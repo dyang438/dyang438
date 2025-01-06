@@ -1,6 +1,6 @@
 ### Hi there! I'm David Yang, currently 3rd Year CIS BSE+MSE @ UPenn Engineering. 
 
-🌱 I’m currently learning about systems programming and am doing work at the Systems Architecture Integration Lab at UPenn as well as an internship at Nobias Therapeutics.\
+🌱 I’m currently learning about systems programming and Machine Learning -- I'm currently doing a winternship at Reticular AI (YCF24).
 💬 Ask me about anything that interests you, either generally || about me!\
 📫 Reach me @ {\
   &nbsp;&nbsp;&nbsp;&nbsp;School Email -- dyang438@seas.upenn.edu,\
