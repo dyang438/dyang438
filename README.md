@@ -3,7 +3,7 @@
 🌱 I’m currently learning about systems programming and Machine Learning -- I'm currently doing a winternship at Reticular AI (YCF24).
 💬 Ask me about anything that interests you, either generally || about me!\
 📫 Reach me @ {\
-  &nbsp;&nbsp;&nbsp;&nbsp;School Email -- davidyang438@gmail.com,\
+  &nbsp;&nbsp;&nbsp;&nbsp;Personal Email -- davidyang438@gmail.com,\
   &nbsp;&nbsp;&nbsp;&nbsp;Instagram: @davidyang.438,\
 }
 
